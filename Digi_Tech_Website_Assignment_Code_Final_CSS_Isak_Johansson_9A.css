@@ -1,0 +1,334 @@
+html {
+scroll-behavior: smooth;
+}
+
+#aa  {
+float: right;    
+margin: 10px 30px 0 0;
+border: 5px solid #ffffff;
+}
+
+#ab {
+float: left;
+margin: -10px 0 10px 0;
+border: 5px solid magenta;
+}
+
+#ac {
+float: left;
+margin: 100px 100px 100px 100px;
+}
+
+#ad {
+float: right;
+margin: 0px 85px 0 0;
+border: 5px solid red;
+}
+
+
+#ae {
+float: right;
+margin: 0px 260px 0 0;
+border: 5px solid #000000;
+}
+
+#af {
+float: right;
+margin: 682px 100px 0 0;
+border: 5px solid #ffffff;
+}
+
+#ag {
+float: right;
+margin: -5px 100px 0 0;
+border: 5px solid #ffffff;
+}
+
+#ah {
+float: right;
+margin: 14px 100px 0 0;
+border: 5px solid #ffffff;
+}
+
+#ai {
+float: right;
+margin: 115px 15px 0 0;
+border: 5px solid #ffffff
+}
+
+#aj {
+margin: 0 300px 0;
+border: 5px solid #000000
+}
+
+#ak {
+float: right;
+margin: 250px 100px 0 0;
+border: 7px solid #000000;
+}
+
+#al {
+float: right;
+margin: 10px 225px 0 0;
+border: 5px solid black;
+}
+
+#am {
+float: right;
+margin: 80px 170px 0 0;
+border: 5px solid blue;
+}
+
+#an {
+float: right;
+margin: 439px -660px 0 0;
+border: 5px solid blue;
+}
+
+#ao {
+border: 5px solid red
+}
+
+
+#ba {
+border: 5px solid blue
+}
+
+#bb {
+border: 5px solid orange
+}
+
+#bc {
+border: 5px solid red
+}
+
+#bd {
+border: 5px solid pink
+}
+
+#be {
+border: 5px solid yellow
+}
+
+#bf {
+border: 5px solid purple
+}
+
+#bg {
+border: 5px solid green
+}
+
+#bh {
+border: 5px solid white
+}
+
+#ca {
+border: 5px solid blue
+}
+
+#cb {
+border: 5px solid orange
+}
+
+#cc {
+border: 5px solid red
+}
+
+#cd {
+border: 5px solid pink
+}
+
+#ce {
+border: 5px solid yellow
+}
+
+#cf {
+border: 5px solid purple
+}
+
+#cg {
+border: 5px solid green
+}
+
+#ch {
+border: 5px solid brown
+}
+
+#ci {
+border: 5px solid brown
+}
+
+#cj {
+border: 5px solid yellow
+}
+
+#ck {
+border: 5px solid orange
+}
+
+#cl {
+border: 5px solid red
+}
+
+#cm {
+border: 5px solid magenta
+}
+
+#cn {
+border: 5px solid olive
+}
+
+#da {
+border: 5px solid magenta
+}
+
+#db {
+border: 5px solid aqua
+}
+
+#ea {
+border: 5px solid sienna
+}
+
+#eb {
+border: 5px solid purple
+}
+
+#ec {
+border: 5px solid yellow
+}
+
+#ed {
+border: 5px solid red
+}
+
+#ee {
+border: 5px solid pink
+}
+
+#ef {
+border: 5px solid orange
+}
+
+#eg {
+border: 5px solid saddlebrown
+}
+
+#fa {
+border: 5px solid yellow
+}
+
+#fb {
+border: 5px solid blue
+}
+
+#fc {
+border: 5px solid red
+}
+
+#fd {
+border: 5px solid orange
+}
+
+#fe {
+border: 5px solid purple
+}
+
+#ff {
+border: 5px solid silver
+}
+
+#fg {
+border: 5px solid saddlebrown
+}
+
+#fh {
+border: 5px solid green
+}
+
+#fi {
+border: 5px solid white
+}
+
+#fj {
+border: 5px solid red
+}
+
+#fk {
+border: 5px solid tan
+}
+
+#fl {
+border: 5px solid saddlebrown
+}
+
+#fm {
+border: 5px solid green
+}
+
+#fn {
+border: 5px solid pink
+}
+
+#fo {
+border: 5px solid orange
+}
+
+#fp {
+border: 5px solid yellow
+}
+
+#fq {
+border: 5px solid red
+}
+
+#fr {
+border: 5px solid gray
+}
+
+#fs {
+border: 5px solid silver
+}
+
+#ft {
+border: 5px solid blue
+}
+
+a {
+ text-decoration: none;
+}
+
+strong {
+ font-weight: bold;
+ font-weight: 1000;
+}
+
+div a {
+color: black;
+}
+
+img:hover {
+	transform:scale(1.1);
+	transition: 0.3s;
+}
+
+a:hover {
+ transition: 0.3s;
+}
+
+a:link {
+color: white;
+}
+
+a:visited {
+color: white;
+}
+
+.getname {width: 150px;}
+.getname {height: 15px;}
+
+.getcomments {width: 250px;}
+.getcomments {height: 70px;}
+
+.recivecomments {width: 250px;}
+.recivecomments {height: 140px;}
